@@ -1,0 +1,12 @@
+[submodule "/var/www/aries_dev/wp-content/themes/aries"]
+	path = /var/www/aries_dev/wp-content/themes/aries
+	url = git@github.com:aries-ck/wptheme-aries.git
+[submodule "/var/www/aries_dev/wp-content/plugins/cyr2lat"]
+	path = /var/www/aries_dev/wp-content/plugins/cyr2lat
+	url = git@github.com:aries-ck/wpplugin-cyr-to-lat.git
+[submodule "/var/www/aries_dev/wp-content/plugins/slider-pro"]
+	path = /var/www/aries_dev/wp-content/plugins/slider-pro
+	url = git@github.com:aries-ck/slider.git
+[submodule "wp-content/plugins/fotorama-wp-0.4"]
+	path = wp-content/plugins/fotorama-wp-0.4
+	url = git@github.com:aries-ck/portfolio.git
